@@ -17,5 +17,6 @@ If you do not use authentication in XBMC/Kodi interface feel free to leave "xbmc
 7) enjoy!
 
 Current CONS:
-no " ' " signs in music dirs names allowed
-the field of plugin showing currently played item updates automatically every 8 seconds
+1) no " ' " signs in music dirs names allowed (if you have a folder on your Kodi host by the name "Music's" it WON'T play);
+2) the field of plugin showing currently played item updates automatically every 8 seconds;
+3) no SSL encryption of API calls from majordomo to Kodi/XBMC (well that's Kodi "by design" feature).
